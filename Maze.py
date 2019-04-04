@@ -7,7 +7,7 @@ import queue as q
 import operator
 import numpy as np
 import matplotlib.pyplot as gui
-from pathlib import Path
+from pathlib import Path 
 
 def readMaze(maze,name) :
     data = Path("map/"+name)
@@ -158,7 +158,7 @@ def main() :
     print("> Masukkan nama file : ", end = "")
     file = input()
     print()
-    readMaze(maze,file)
+    readMaze(maze,file)#file from folder map
     print_maze(maze)
     print()
     rows = len(maze)
