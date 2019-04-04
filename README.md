@@ -5,9 +5,9 @@ MazeSolver solves mazes, which are manually read and interpreted from text file 
 
 # Creating a maze
 
-![awal](https://github.com/Harisalghifary/MazeSolver/tree/master/image/xLarge.png)
+![](image/xLarge.png)
 
 # Solving a maze
 example from xLarge.txt with BFS.
 
-![akhir](https://github.com/Harisalghifary/MazeSolver/tree/master/image/xLargeB.png)
+![](image/xLargeB.png)
